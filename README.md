@@ -1,0 +1,2 @@
+# HuaweiProject-MapPedia
+This is android App [named MapPedia ] ,basically implementation of the Hms Accoutn kit , Hms Ad kit (static Ads ,bcoz dynamic ad requires entrepreneur account to access) the Map kit. This app is to help to visualize The Northcap University on the map with just a click but to access that you have to first undergo login authentication using ID. This app also includes static ads  which makes it livelier This Project Done under the HUWAEI MOBILE SERVICES TRAINING PROGRAMME. In this internship we learnt Mobile development form Scratch
